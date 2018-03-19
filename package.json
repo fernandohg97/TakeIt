@@ -1,0 +1,19 @@
+{
+  "name": "takeit",
+  "version": "1.0.0",
+  "description": "WebApp to order food from your phone.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fernandohg97/TakeIt.git"
+  },
+  "author": "Fernando Hernandez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fernandohg97/TakeIt/issues"
+  },
+  "homepage": "https://github.com/fernandohg97/TakeIt#readme"
+}
